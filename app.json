@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "29b4a043-433f-4507-8a4e-62f212096335"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.magedelkamhawy.perfumebackend",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
